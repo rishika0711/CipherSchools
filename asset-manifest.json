@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CipherSchools/assignment2/static/css/main.77423e09.css",
+    "main.js": "/CipherSchools/assignment2/static/js/main.2930c680.js",
+    "static/js/787.2843ca88.chunk.js": "/CipherSchools/assignment2/static/js/787.2843ca88.chunk.js",
+    "index.html": "/CipherSchools/assignment2/index.html",
+    "main.77423e09.css.map": "/CipherSchools/assignment2/static/css/main.77423e09.css.map",
+    "main.2930c680.js.map": "/CipherSchools/assignment2/static/js/main.2930c680.js.map",
+    "787.2843ca88.chunk.js.map": "/CipherSchools/assignment2/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77423e09.css",
+    "static/js/main.2930c680.js"
+  ]
+}
